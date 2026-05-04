@@ -1,5 +1,5 @@
-﻿# Modelos treinados (MUITO GRANDES para GitHub)
-*.pt
+﻿*.pt
+!best_roboflow.pt
 *.h5
 *.pth
 
