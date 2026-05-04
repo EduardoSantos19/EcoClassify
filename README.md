@@ -59,20 +59,13 @@ ecoclassify-backand/
 git clone https://github.com/EduardoSantos19/EcoClassify.git
 cd EcoClassify
 
-
 2.Instalar dependências
 
 pip install -r requirements.txt
 
-
 3. Baixar o modelo treinado
 
-O modelo best_roboflow.pt está disponível no Google Drive:
-🔗 Link para download do modelo
-
-⚠️ O modelo NÃO está incluso no GitHub devido ao tamanho (~6MB).
-Baixe e coloque na mesma pasta do api.py.
-
+O modelo best_roboflow.pt está disponível na pasta do projeto.
 
 4. Executar a API
 
